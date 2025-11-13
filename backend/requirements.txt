@@ -1,0 +1,15 @@
+Flask==3.0.0
+flask-cors==4.0.0
+flask-pymongo==2.3.0
+flask-socketio==5.3.5
+python-socketio==5.10.0
+pymongo==4.6.1
+python-dotenv==1.0.0
+werkzeug==3.0.1
+
+# AI Model Dependencies (install separately or use install_dependencies.bat)
+torch>=2.0.0
+transformers>=4.30.0
+openai-whisper>=20231117
+accelerate>=0.20.0
+sentencepiece>=0.1.99
